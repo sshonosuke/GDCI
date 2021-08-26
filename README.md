@@ -7,9 +7,9 @@ Kurisu, D., Ishihara, T. and Sugasawa, S. (2021). Robust and Efficient Empirical
 The repository includes the following files.
 
 * `GDCI-function.R` : Script implementing the proposed method
-* `simulation.R` : Script applying the proposed method to two simulated datasets 
+* `simulation.R` : Script of one-shot simulation 
 * `crimedata.RData`: Summary statistics of crimedata used in our analysis 
-* `data-analysis`.R: Script for analyzing the crime data
+* `data-analysis.R': Script of an application to the crime data
 
 
 
