@@ -9,7 +9,7 @@ The repository includes the following files.
 * `GDCI-function.R` : Script implementing the proposed method
 * `simulation.R` : Script of one-shot simulation 
 * `crimedata.RData`: Summary statistics of crimedata used in our analysis 
-* `data-analysis.R': Script of an application to the crime data
+* `data-analysis.R`: Script of an application to the crime data
 
 
 
