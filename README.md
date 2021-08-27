@@ -2,7 +2,7 @@
 
 This repository provides R code implementing robust empirical Bayes confidence intervals using gamma-divergence, as proposed by the following paper.
 
-Kurisu, D., Ishihara, T. and Sugasawa, S. (2021). Robust and Efficient Empirical Bayes Confidence Intervals using gamma-Divergence. (available at [arXiv](https://arxiv.org/abs/2108.11551))
+Kurisu, D., Ishihara, T. and Sugasawa, S. (2021). Robust and Efficient Empirical Bayes Confidence Intervals using gamma-Divergence. [arXiv:2108.11551](https://arxiv.org/abs/2108.11551)
 
 The repository includes the following files.
 
